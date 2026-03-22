@@ -1,6 +1,6 @@
 {
   "name": "cookpad",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unofficial Cookpad API client for JavaScript/TypeScript",
   "type": "module",
   "main": "dist/index.js",
@@ -11,7 +11,11 @@
       "types": "./dist/index.d.ts"
     }
   },
-  "files": ["dist", "LICENSE", "README.md"],
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/use-s0ma/cookpad-js",
@@ -23,7 +27,12 @@
     "test": "vitest run",
     "test:watch": "vitest"
   },
-  "keywords": ["cookpad", "recipe", "api", "cooking"],
+  "keywords": [
+    "cookpad",
+    "recipe",
+    "api",
+    "cooking"
+  ],
   "author": "user_s0ma",
   "license": "MIT",
   "devDependencies": {
