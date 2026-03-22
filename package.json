@@ -14,7 +14,7 @@
   "files": ["dist", "LICENSE", "README.md"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/user_s0ma/cookpad-js",
+    "url": "https://github.com/use-s0ma/cookpad-js",
     "directory": "cookpad-js"
   },
   "scripts": {
