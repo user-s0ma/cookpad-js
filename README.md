@@ -5,7 +5,7 @@ Cookpad の非公式 TypeScript クライアント。
 ## インストール
 
 ```bash
-npm install @user_s0ma/cookpad
+npm install user_s0ma/cookpad
 ```
 
 ## クイックスタート
