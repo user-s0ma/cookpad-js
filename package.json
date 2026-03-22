@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/use-s0ma/cookpad-js",
+    "url": "https://github.com/user-s0ma/cookpad-js",
     "directory": "cookpad-js"
   },
   "scripts": {
