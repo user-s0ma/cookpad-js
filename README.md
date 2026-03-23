@@ -2,6 +2,8 @@
 
 Cookpad の非公式 TypeScript クライアント。
 
+Python版: https://github.com/fa0311/cookpad-py
+
 ## インストール
 
 ```bash
