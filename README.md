@@ -2,8 +2,15 @@
 
 Cookpad の非公式 TypeScript クライアント。
 
-## インストール
+## Python版
 
+https://github.com/fa0311/cookpad-py
+
+## 開発者
+
+[EVEX Developers](https://discord.gg/evex)
+
+## インストール
 ```bash
 npm install cookpad
 ```
